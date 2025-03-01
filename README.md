@@ -23,12 +23,6 @@ This project examines **common attack vectors** through practical simulations of
 
 📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18703978/Assessing.Common.Attack.Vectors.4e.-.Marc.Corona.pdf)**
 
-📂 **Attack Simulations & Screenshots**:
-- `sql_injection_success.png` – Successful SQL injection into a web login page  
-- `xss_attack_demo.png` – Reflected XSS payload execution  
-- `malware_payload_execution.png` – Metasploit trojan execution and system takeover  
-- `ddos_attack_analysis.pcap` – Wireshark capture of simulated DDoS traffic  
-
 <h2>✅ Defensive Measures & Mitigations</h2>
 
 🔹 **Input Validation & Parameterized Queries** prevent SQL/XSS injection.  
