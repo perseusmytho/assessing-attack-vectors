@@ -21,7 +21,7 @@ This project examines **common attack vectors** through practical simulations of
 
 <h2>🚀 Report & Documentation</h2>
 
-📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18703978/Assessing.Common.Attack.Vectors.4e.-.Marc.Corona.pdf)**
+📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/19540213/Assessing.Common.Attack.Vectors.-.Marc.Corona.Mireles.pdf)**
 
 <h2>✅ Defensive Measures & Mitigations</h2>
 
